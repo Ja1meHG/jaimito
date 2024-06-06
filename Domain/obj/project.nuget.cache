@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o07Uz0zTZwmdVnrFM23whXRf+ArBMmjfspSRO+pTGNqCvysGXfUmSVc+LdRXnlBdJDtxko4FIzRsMXRqh3Pt4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaime\\source\\repos\\WebApi91\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaime\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512"
+  ],
+  "logs": []
+}
